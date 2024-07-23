@@ -11,8 +11,8 @@ Currently, two official plugins are available:
 Getting Started
 1. Clone the Repository:
 ```bash
-git clone https://github.com/dhirajk27/Plant-Disease-Prediction-CNN-DEEP-Learning-Project-.git
-cd Plant-Disease-Prediction-CNN-DEEP-Learning-Project-
+git clone https://github.com/dhirajk27/BlogWrite.git
+cd BlogWrite
 ```
 2. Setup Environment Variables:
 Copy the .envsample file to a new file named .env and add your Appwrite database API keys and other necessary environment variables.

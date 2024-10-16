@@ -1,0 +1,16 @@
+{
+    "builds": [
+      {
+        "src": "blogwrite/package.json",
+        "use": "@vercel/static-build"
+      }
+    ],
+    "outputDirectory": "blogwrite/dist",
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/blogwrite/index.html"
+      }
+    ]
+  }
+  
